@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import patternDividerDesktop from "./images/pattern-divider-desktop.svg";
+import patternDividerMobile from "./images/pattern-divider-mobile.svg";
+import iconDice from "./images/icon-dice.svg";
 
 function App() {
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <main className="advice-container">
+        <h1>Advice #117</h1>
+        <blockquote>
+          "It is easy to sit up and take notice, what's difficult is getting up
+          and taking action"
+        </blockquote>
+        <img className="divider" src={patternDividerDesktop} alt="Artistic pattern" />
+        <button>
+          <img src={iconDice} alt="Dice icon" />
+        </button>
+      </main>
     </div>
   );
 }
