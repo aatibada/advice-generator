@@ -33,8 +33,13 @@ function App() {
         <h1>Advice #{id}</h1>
         <q>{advice}</q>
         <img
-          className="divider"
+          className="desktop-divider"
           src={patternDividerDesktop}
+          alt="Artistic pattern"
+        />
+        <img
+          className="mobile-divider"
+          src={patternDividerMobile}
           alt="Artistic pattern"
         />
         <button onClick={handleClick}>
