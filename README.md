@@ -27,10 +27,9 @@ Users should be able to:
 
 ![](./Advice%20Generator%20Screenshot.png)
 
-### Links
+### Link(s)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=advice-generator-4b449upix-aatibada.vercel.app&projectName=advice-generator&s=https%3A%2F%2Fgithub.com%2Faatibada%2Fadvice-generator&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1)
 
 ## My process
 
