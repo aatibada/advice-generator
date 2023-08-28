@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Link(s)
 
-- Live Site URL: [Live Site](https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=advice-generator-4b449upix-aatibada.vercel.app&projectName=advice-generator&s=https%3A%2F%2Fgithub.com%2Faatibada%2Fadvice-generator&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1)
+- [Live Site](https://advice-generator-nine-alpha.vercel.app/)
 
 ## My process
 
