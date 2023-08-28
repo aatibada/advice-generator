@@ -66,6 +66,8 @@ button:hover {
   filter: drop-shadow(0 0 2.25rem #53FFAA);
 }
 
+/* Responsive CSS */
+
 @media only screen and (max-width: 600px) {
   html {
     font-size: 12px;
